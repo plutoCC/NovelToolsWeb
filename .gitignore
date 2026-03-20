@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+storage/
+.server.pid
+server.log
+*.log
+build/
+dist/
+*.spec
+Launch-Novel-Tools.exe
